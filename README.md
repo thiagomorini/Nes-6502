@@ -24,7 +24,7 @@ Para usar o Nes-6502, basta seguir os seguintes passos:
 git clone https://github.com/thiagomorini/Nes-6502.git
 ```
 
-2. Baixe a bilioteca SFML e referencie ao projeto.
+2. Baixe a biblioteca SFML e referencie ao projeto.
 
 3. Execute o projeto
 

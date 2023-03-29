@@ -1,6 +1,6 @@
 # Nes-6502
 
-<img src="Nes-6502.PNG" width="480" height="240" align="right">
+<img src="Nes-6502.PNG" width="480" height="376" align="right">
 
 Este projeto é um emulador da CPU do Nes, o MOS 6502. Ele permite a execução de programas e jogos escritos para o Nes.
 
